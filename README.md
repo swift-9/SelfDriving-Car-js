@@ -15,7 +15,7 @@
 
 ## 📌 Overview
 
-A browser-based **self-driving car simulation** built using **plain JavaScript** and the HTML5 Canvas API.
+A browser-based **self-driving car simulation** built using **plain JavaScript** and the HTML5 Canvas.
 
 - 🚗 Infinite road with traffic
 - 🧠 Neural network visualizer in real-time
