@@ -1,7 +1,8 @@
 # 🏎️ Self-Driving Car Simulation (JS + Neural Networks)
-<div><img src="car_g.gif" alt="Screenshot" /></div>
+
 <div align="center">
 
+# <div><img src="car_g.gif" alt="Screenshot" /></div>
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
