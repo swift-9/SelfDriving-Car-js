@@ -4,7 +4,6 @@
 
 # <div><img src="car_g.gif" alt="Screenshot" /></div>
 
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
 ![Canvas](https://img.shields.io/badge/Canvas-2D-blue)
 ![ML](https://img.shields.io/badge/Neural%20Networks-ML-green)
@@ -83,3 +82,7 @@ git clone https://github.com/your-username/Self-Driving-Car.git
 ---
 
 ## 📸 Screenshots
+
+# <div><img src="ss.png" alt="Screenshot" /></div>
+
+---
